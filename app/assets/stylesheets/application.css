@@ -13,8 +13,8 @@
  *= require_tree .
  *= require_self
  */
- @import url('normalize.css');
- @import url('grid.css');
+ @import url('stylesheets/normalize.css');
+ @import url('stylesheets/grid.css');
  @import url(https://fonts.googleapis.com/css?family=Lobster);
  @import url(https://fonts.googleapis.com/css?family=Lato);
 
